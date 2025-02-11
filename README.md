@@ -16,7 +16,8 @@ Then, copy these three dataset files along with the following three files into t
 2. **ChemBEARa Drug Encoding**: `ChemBERTa_smiles_embeddings.npy`  
    Chithrananda S, Grand G, Ramsundar B. ChemBERTa: large-scale self-supervised pretraining for molecular property prediction. *arXiv preprint arXiv:2010.09885*, 2020.
 
-3. **GeminiMol Drug Encoding**: `geminimol_latent_dict.npy`
+3. **GeminiMol Drug Encoding**: `geminimol_latent_dict.npy`  
+   Wang L, Wang S, Yang H, et al. Conformational Space Profiling Enhances Generic Molecular Representation for AI‐Powered Ligand‐Based Drug Discovery. *Advanced Science*, 2024, 11(40): 2403998.
 
 Finally, run the model by executing the following command in the root directory:
 
